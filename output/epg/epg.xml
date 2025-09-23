@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250923064817 +0800">
+<tv date="20250923105039 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -846,98 +846,113 @@
 	<channel id="北京卫视">
 		<display-name lang="zh">北京卫视</display-name>
 	</channel>
-	<programme channel="北京卫视" start="20250923001300 +0800" stop="20250923004400 +0800">
-		<title lang="zh">红星剧场:乌云之上(3)</title>
+	<programme channel="北京卫视" start="20250923002100 +0800" stop="20250923002600 +0800">
+		<title lang="zh">晚间气象服务</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923004400 +0800" stop="20250923012800 +0800">
-		<title lang="zh">好梦剧场</title>
+	<programme channel="北京卫视" start="20250923002600 +0800" stop="20250923011000 +0800">
+		<title lang="zh">档案:殷墟考古文明探源</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923012800 +0800" stop="20250923021200 +0800">
-		<title lang="zh">好梦剧场</title>
+	<programme channel="北京卫视" start="20250923011000 +0800" stop="20250923015200 +0800">
+		<title lang="zh">档案:兵马俑是彩色的</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923021200 +0800" stop="20250923025600 +0800">
-		<title lang="zh">好梦剧场</title>
+	<programme channel="北京卫视" start="20250923015200 +0800" stop="20250923023600 +0800">
+		<title lang="zh">春风化雨(9)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923025600 +0800" stop="20250923034100 +0800">
-		<title lang="zh">好梦剧场</title>
+	<programme channel="北京卫视" start="20250923023600 +0800" stop="20250923032100 +0800">
+		<title lang="zh">春风化雨(10)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923034100 +0800" stop="20250923054200 +0800">
-		<title lang="zh">中国</title>
+	<programme channel="北京卫视" start="20250923032100 +0800" stop="20250923040600 +0800">
+		<title lang="zh">档案:殷墟考古文明探源</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923054200 +0800" stop="20250923060000 +0800">
+	<programme channel="北京卫视" start="20250923040600 +0800" stop="20250923044900 +0800">
+		<title lang="zh">档案:兵马俑是彩色的</title>
+	</programme>
+	<programme channel="北京卫视" start="20250923044900 +0800" stop="20250923051200 +0800">
 		<title lang="zh">法治进行时</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923060000 +0800" stop="20250923062000 +0800">
+	<programme channel="北京卫视" start="20250923051200 +0800" stop="20250923053300 +0800">
 		<title lang="zh">法治进行时</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923062000 +0800" stop="20250923065500 +0800">
-		<title lang="zh">养生堂精编版</title>
+	<programme channel="北京卫视" start="20250923053300 +0800" stop="20250923055300 +0800">
+		<title lang="zh">法治进行时</title>
+	</programme>
+	<programme channel="北京卫视" start="20250923055300 +0800" stop="20250923065500 +0800">
+		<title lang="zh">养生堂:困扰已久的“不知所晕”</title>
 	</programme>
 	<programme channel="北京卫视" start="20250923065500 +0800" stop="20250923070000 +0800">
 		<title lang="zh">早间气象服务</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923070000 +0800" stop="20250923090500 +0800">
+	<programme channel="北京卫视" start="20250923070000 +0800" stop="20250923090300 +0800">
 		<title lang="zh">北京您早</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923090500 +0800" stop="20250923095600 +0800">
-		<title lang="zh">上午剧场:伪装者(30)</title>
+	<programme channel="北京卫视" start="20250923090300 +0800" stop="20250923093700 +0800">
+		<title lang="zh">医者</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923095600 +0800" stop="20250923104800 +0800">
-		<title lang="zh">上午剧场:伪装者(31)</title>
+	<programme channel="北京卫视" start="20250923093700 +0800" stop="20250923102300 +0800">
+		<title lang="zh">上午剧场:鼓楼外(39)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923104800 +0800" stop="20250923120000 +0800">
-		<title lang="zh">上午剧场:伪装者(32)</title>
+	<programme channel="北京卫视" start="20250923102300 +0800" stop="20250923110600 +0800">
+		<title lang="zh">上午剧场:六姊妹(1)</title>
+	</programme>
+	<programme channel="北京卫视" start="20250923110600 +0800" stop="20250923120000 +0800">
+		<title lang="zh">上午剧场:六姊妹(2)</title>
 	</programme>
 	<programme channel="北京卫视" start="20250923120000 +0800" stop="20250923125800 +0800">
 		<title lang="zh">特别关注</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923125800 +0800" stop="20250923131000 +0800">
+	<programme channel="北京卫视" start="20250923125800 +0800" stop="20250923130400 +0800">
 		<title lang="zh">午间气象服务</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923131000 +0800" stop="20250923140200 +0800">
-		<title lang="zh">午茶剧场:伪装者(25)</title>
+	<programme channel="北京卫视" start="20250923130400 +0800" stop="20250923135200 +0800">
+		<title lang="zh">午茶剧场:伪装者(30)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923140200 +0800" stop="20250923145500 +0800">
-		<title lang="zh">午茶剧场:伪装者(26)</title>
+	<programme channel="北京卫视" start="20250923135200 +0800" stop="20250923144100 +0800">
+		<title lang="zh">午茶剧场:伪装者(31)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923145500 +0800" stop="20250923154800 +0800">
-		<title lang="zh">午茶剧场:伪装者(27)</title>
+	<programme channel="北京卫视" start="20250923144100 +0800" stop="20250923152800 +0800">
+		<title lang="zh">午茶剧场:伪装者(32)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923154800 +0800" stop="20250923164000 +0800">
-		<title lang="zh">午茶剧场:伪装者(28)</title>
+	<programme channel="北京卫视" start="20250923152800 +0800" stop="20250923161500 +0800">
+		<title lang="zh">午茶剧场:伪装者(33)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923164000 +0800" stop="20250923172500 +0800">
+	<programme channel="北京卫视" start="20250923161500 +0800" stop="20250923170900 +0800">
+		<title lang="zh">午茶剧场:伪装者(34)</title>
+	</programme>
+	<programme channel="北京卫视" start="20250923170900 +0800" stop="20250923172500 +0800">
 		<title lang="zh">暖暖的味道</title>
 	</programme>
 	<programme channel="北京卫视" start="20250923172500 +0800" stop="20250923183000 +0800">
 		<title lang="zh">养生堂</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923183000 +0800" stop="20250923185400 +0800">
+	<programme channel="北京卫视" start="20250923183000 +0800" stop="20250923185500 +0800">
 		<title lang="zh">北京新闻</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923185400 +0800" stop="20250923190000 +0800">
-		<title lang="zh">北京天气预报</title>
+	<programme channel="北京卫视" start="20250923185500 +0800" stop="20250923190000 +0800">
+		<title lang="zh">天气预报</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923190000 +0800" stop="20250923193200 +0800">
-		<title lang="zh">转播央视新闻联播</title>
+	<programme channel="北京卫视" start="20250923190000 +0800" stop="20250923193000 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923193200 +0800" stop="20250923201800 +0800">
-		<title lang="zh">品质剧场</title>
+	<programme channel="北京卫视" start="20250923193000 +0800" stop="20250923201600 +0800">
+		<title lang="zh">品质剧场:守护者们(1)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923201800 +0800" stop="20250923210500 +0800">
-		<title lang="zh">品质剧场</title>
+	<programme channel="北京卫视" start="20250923201600 +0800" stop="20250923210500 +0800">
+		<title lang="zh">品质剧场:守护者们(2)</title>
 	</programme>
 	<programme channel="北京卫视" start="20250923210500 +0800" stop="20250923215000 +0800">
-		<title lang="zh">大先生</title>
+		<title lang="zh">大先生4精华版</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923215000 +0800" stop="20250923230400 +0800">
-		<title lang="zh">大先生</title>
+	<programme channel="北京卫视" start="20250923215000 +0800" stop="20250923220200 +0800">
+		<title lang="zh">世界文化名城名人访谈(3)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923230400 +0800" stop="20250923234600 +0800">
+	<programme channel="北京卫视" start="20250923220200 +0800" stop="20250923224500 +0800">
+		<title lang="zh">红星剧场:乌云之上(3)</title>
+	</programme>
+	<programme channel="北京卫视" start="20250923224500 +0800" stop="20250923233000 +0800">
 		<title lang="zh">红星剧场:乌云之上(4)</title>
 	</programme>
-	<programme channel="北京卫视" start="20250923234600 +0800" stop="20250923235900 +0800">
-		<title lang="zh">红星剧场:乌云之上(5)</title>
+	<programme channel="北京卫视" start="20250923233000 +0800" stop="20250923235900 +0800">
+		<title lang="zh">风味人间5(4)</title>
 	</programme>
 	<channel id="广东卫视">
 		<display-name lang="zh">广东卫视</display-name>
@@ -1356,55 +1371,73 @@
 	<channel id="湖南卫视">
 		<display-name lang="zh">湖南卫视</display-name>
 	</channel>
-	<programme channel="湖南卫视" start="20250923000500 +0800" stop="20250923002000 +0800">
+	<programme channel="湖南卫视" start="20250923001200 +0800" stop="20250923002800 +0800">
 		<title lang="zh">山有九色念有卿(2)</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923002000 +0800" stop="20250923010000 +0800">
-		<title lang="zh">去湘当有味的地方3</title>
+	<programme channel="湖南卫视" start="20250923002800 +0800" stop="20250923010800 +0800">
+		<title lang="zh">去“湘”当有味的地方3</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923010000 +0800" stop="20250923013000 +0800">
+	<programme channel="湖南卫视" start="20250923010800 +0800" stop="20250923013700 +0800">
 		<title lang="zh">首发</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923013000 +0800" stop="20250923040000 +0800">
+	<programme channel="湖南卫视" start="20250923013700 +0800" stop="20250923020600 +0800">
 		<title lang="zh">新闻大求真</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923040000 +0800" stop="20250923060000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="湖南卫视" start="20250923020600 +0800" stop="20250923023500 +0800">
+		<title lang="zh">新闻大求真</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923060000 +0800" stop="20250923063000 +0800">
+	<programme channel="湖南卫视" start="20250923023500 +0800" stop="20250923030400 +0800">
+		<title lang="zh">新闻大求真</title>
+	</programme>
+	<programme channel="湖南卫视" start="20250923030400 +0800" stop="20250923033300 +0800">
+		<title lang="zh">新闻大求真</title>
+	</programme>
+	<programme channel="湖南卫视" start="20250923033300 +0800" stop="20250923040200 +0800">
+		<title lang="zh">新闻大求真</title>
+	</programme>
+	<programme channel="湖南卫视" start="20250923040200 +0800" stop="20250923043200 +0800">
+		<title lang="zh">傲椒的湘菜2(2):鲜腐之间</title>
+	</programme>
+	<programme channel="湖南卫视" start="20250923043200 +0800" stop="20250923050200 +0800">
+		<title lang="zh">新闻大求真</title>
+	</programme>
+	<programme channel="湖南卫视" start="20250923050200 +0800" stop="20250923053000 +0800">
+		<title lang="zh">平民英雄:耕新者质向未来</title>
+	</programme>
+	<programme channel="湖南卫视" start="20250923053000 +0800" stop="20250923055900 +0800">
 		<title lang="zh">首发</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923063000 +0800" stop="20250923070000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="湖南卫视" start="20250923055900 +0800" stop="20250923062800 +0800">
+		<title lang="zh">首发</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923070000 +0800" stop="20250923070100 +0800">
-		<title lang="zh">中华人民共和国国歌</title>
+	<programme channel="湖南卫视" start="20250923062800 +0800" stop="20250923070100 +0800">
+		<title lang="zh">傲椒的湘菜2(12):余味无穷</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923070100 +0800" stop="20250923073000 +0800">
+	<programme channel="湖南卫视" start="20250923070100 +0800" stop="20250923073400 +0800">
 		<title lang="zh">湖南新闻联播</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923073000 +0800" stop="20250923080000 +0800">
-		<title lang="zh">爱情珠宝(11)</title>
+	<programme channel="湖南卫视" start="20250923073400 +0800" stop="20250923080300 +0800">
+		<title lang="zh">爱情珠宝</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923080000 +0800" stop="20250923081300 +0800">
-		<title lang="zh">萌宝战警之幻世虫界(3)</title>
+	<programme channel="湖南卫视" start="20250923080300 +0800" stop="20250923081600 +0800">
+		<title lang="zh">萌宝战警之幻世虫界(3):巧遇挚友</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923081300 +0800" stop="20250923082600 +0800">
-		<title lang="zh">萌宝战警之幻世虫界(4)</title>
+	<programme channel="湖南卫视" start="20250923081600 +0800" stop="20250923083000 +0800">
+		<title lang="zh">萌宝战警之幻世虫界(4):粉色力量</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923082600 +0800" stop="20250923084200 +0800">
-		<title lang="zh">萌宝战警之幻世虫界(5)</title>
+	<programme channel="湖南卫视" start="20250923083000 +0800" stop="20250923084600 +0800">
+		<title lang="zh">萌宝战警之幻世虫界(5):沙丘之王</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923084200 +0800" stop="20250923093300 +0800">
+	<programme channel="湖南卫视" start="20250923084600 +0800" stop="20250923093000 +0800">
 		<title lang="zh">偶像独播剧场:爱情珠宝</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923093300 +0800" stop="20250923103100 +0800">
+	<programme channel="湖南卫视" start="20250923093000 +0800" stop="20250923103200 +0800">
 		<title lang="zh">偶像独播剧场:爱情珠宝</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923103100 +0800" stop="20250923111700 +0800">
+	<programme channel="湖南卫视" start="20250923103200 +0800" stop="20250923111500 +0800">
 		<title lang="zh">偶像独播剧场:爱情珠宝</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923111700 +0800" stop="20250923121000 +0800">
+	<programme channel="湖南卫视" start="20250923111500 +0800" stop="20250923121000 +0800">
 		<title lang="zh">偶像独播剧场:爱情珠宝</title>
 	</programme>
 	<programme channel="湖南卫视" start="20250923121000 +0800" stop="20250923123200 +0800">
@@ -1416,19 +1449,19 @@
 	<programme channel="湖南卫视" start="20250923123700 +0800" stop="20250923135600 +0800">
 		<title lang="zh">偶像独播剧场:爱情珠宝</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923135600 +0800" stop="20250923145200 +0800">
+	<programme channel="湖南卫视" start="20250923135600 +0800" stop="20250923145500 +0800">
 		<title lang="zh">偶像独播剧场:爱情珠宝</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923145200 +0800" stop="20250923153200 +0800">
+	<programme channel="湖南卫视" start="20250923145500 +0800" stop="20250923153700 +0800">
 		<title lang="zh">偶像独播剧场:爱情珠宝</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923153200 +0800" stop="20250923161900 +0800">
+	<programme channel="湖南卫视" start="20250923153700 +0800" stop="20250923162200 +0800">
 		<title lang="zh">青春独播剧场:底线</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923161900 +0800" stop="20250923170600 +0800">
+	<programme channel="湖南卫视" start="20250923162200 +0800" stop="20250923170900 +0800">
 		<title lang="zh">青春独播剧场:底线</title>
 	</programme>
-	<programme channel="湖南卫视" start="20250923170600 +0800" stop="20250923175600 +0800">
+	<programme channel="湖南卫视" start="20250923170900 +0800" stop="20250923175600 +0800">
 		<title lang="zh">青春独播剧场:底线</title>
 	</programme>
 	<programme channel="湖南卫视" start="20250923175600 +0800" stop="20250923183000 +0800">
