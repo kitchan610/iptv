@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-17 06:26:01,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq$订阅源
+2025-11-17 18:32:51,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq$订阅源
@@ -13,11 +13,10 @@ CCTV-5+,http://120.46.223.160/PHP/MG.php?id=641886773$订阅源
 CCTV-6,http://120.46.223.160/PHP/MG.php?id=624878396$订阅源
 CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq$订阅源
 CCTV-7,http://120.46.223.160/PHP/MG.php?id=673168121$订阅源
-CCTV-7,http://112.6.239.227:8207/hls/8/index.m3u8$订阅源
-CCTV-7,http://112.6.239.227:8207/hls/8/index.m3u8$订阅源
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
 CCTV-8,http://120.46.223.160/PHP/MG.php?id=624878356$订阅源
+CCTV-8,http://112.6.239.227:8207/hls/9/index.m3u8$订阅源
 CCTV-8,http://112.6.239.227:8207/hls/9/index.m3u8$订阅源
 CCTV-8,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-8,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -46,3 +45,5 @@ CCTV-9,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&
 东方卫视,http://116.128.242.83:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 
 📡体育频道,#genre#
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40$订阅源
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40$订阅源
