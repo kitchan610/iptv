@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-17 18:32:51,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq$订阅源
+2025-11-18 06:27:27,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq$订阅源
@@ -7,29 +7,36 @@ CCTV-1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=gq$订阅源
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086$订阅源
 CCTV-1,http://171.116.216.113:10010/rtp/226.0.1.157:3086$订阅源
 CCTV-2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq$订阅源
+CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2$订阅源
+CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2$订阅源
+CCTV-5,http://bxtv.3a.ink/migu.php?id=cctv5$订阅源
 CCTV-5,http://120.46.223.160/PHP/MG.php?id=641886683$订阅源
 CCTV-5,http://120.46.223.160/PHP/MG.php?id=641886683$订阅源
+CCTV-5+,http://bxtv.3a.ink/migu.php?id=cctv5p$订阅源
 CCTV-5+,http://120.46.223.160/PHP/MG.php?id=641886773$订阅源
+CCTV-6,http://bxtv.3a.ink/migu.php?id=cctv6$订阅源
 CCTV-6,http://120.46.223.160/PHP/MG.php?id=624878396$订阅源
 CCTV-7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq$订阅源
+CCTV-7,http://bxtv.3a.ink/migu.php?id=cctv7$订阅源
 CCTV-7,http://120.46.223.160/PHP/MG.php?id=673168121$订阅源
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
+CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8$订阅源
 CCTV-8,http://120.46.223.160/PHP/MG.php?id=624878356$订阅源
-CCTV-8,http://112.6.239.227:8207/hls/9/index.m3u8$订阅源
-CCTV-8,http://112.6.239.227:8207/hls/9/index.m3u8$订阅源
 CCTV-8,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-8,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq$订阅源
-CCTV-9,http://120.46.223.160/PHP/MG.php?id=673168140$订阅源
+CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9$订阅源
 CCTV-9,http://112.6.239.227:8207/hls/10/index.m3u8$订阅源
+CCTV-9,http://112.6.239.227:8207/hls/10/index.m3u8$订阅源
+CCTV-9,http://120.46.223.160/PHP/MG.php?id=673168140$订阅源
 CCTV-9,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
-广东卫视,http://120.46.223.160/PHP/MG.php?id=608831231$订阅源
 广东卫视,http://112.6.239.227:8207/hls/22/index.m3u8$订阅源
+广东卫视,http://120.46.223.160/PHP/MG.php?id=608831231$订阅源
 广东卫视,http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
 浙江卫视,http://112.6.239.227:8207/hls/16/index.m3u8$订阅源
 浙江卫视,http://116.128.242.83:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -45,5 +52,3 @@ CCTV-9,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&
 东方卫视,http://116.128.242.83:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 
 📡体育频道,#genre#
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40$订阅源
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40$订阅源
