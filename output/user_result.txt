@@ -1,47 +1,31 @@
 🕘️更新时间,#genre#
-2025-11-27 18:32:30,http://tnvcn.com:8012/rtp/239.3.1.130:8004$订阅源
+2025-11-28 06:27:47,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
 
 📺央视频道,#genre#
-CCTV-5+,http://tnvcn.com:8012/rtp/239.3.1.130:8004$订阅源
-CCTV-5+,http://tnvcn.com:8012/rtp/239.3.1.130:8004$订阅源
-CCTV-6,http://tnvcn.com:8012/rtp/239.3.1.174:8001$订阅源
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
-CCTV-7,http://60.13.52.236:65500/newlive/live/hls/7/live.m3u8$订阅源
-CCTV-7,http://60.13.52.236:65500/newlive/live/hls/7/live.m3u8$订阅源
-CCTV-8,http://tnvcn.com:8012/rtp/239.3.1.175:8001$订阅源
-CCTV-8,http://61.136.172.236:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-8,http://61.136.172.236:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-9,http://tnvcn.com:8012/rtp/239.3.1.62:8112$订阅源
+CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140$订阅源
+CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140$订阅源
 CCTV-9,http://60.13.52.236:65500/newlive/live/hls/9/live.m3u8$订阅源
-CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140$订阅源
-CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140$订阅源
+CCTV-9,http://60.13.52.236:65500/newlive/live/hls/9/live.m3u8$订阅源
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
-广东卫视,http://tnvcn.com:8012/rtp/239.3.1.142:8048$订阅源
 广东卫视,http://60.13.52.236:65500/newlive/live/hls/23/live.m3u8$订阅源
 广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-浙江卫视,http://tnvcn.com:8012/rtp/239.3.1.137:8036$订阅源
+广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 浙江卫视,http://183.220.107.138:4022/rtp/239.11.0.70:5140$订阅源
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
-湖南卫视,http://tnvcn.com:8012/rtp/239.3.1.132:8012$订阅源
 湖南卫视,http://61.136.172.236:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
-北京卫视,http://tnvcn.com:8012/rtp/239.3.1.241:8000$订阅源
-北京卫视,http://60.13.52.236:65500/newlive/live/hls/22/live.m3u8$订阅源
 北京卫视,http://183.220.107.138:4022/rtp/239.11.0.121:5140$订阅源
+北京卫视,http://60.13.52.236:65500/newlive/live/hls/22/live.m3u8$订阅源
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
-东方卫视,http://tnvcn.com:8012/rtp/239.3.1.136:8032$订阅源
-东方卫视,http://120.40.39.246:352/newlive/live/hls/20/live.m3u8$订阅源
-东方卫视,http://120.40.39.246:352/newlive/live/hls/20/live.m3u8$订阅源
-东方卫视,http://60.13.52.236:65500/newlive/live/hls/18/live.m3u8$订阅源
 东方卫视,http://183.220.107.138:4022/rtp/239.11.0.68:5140$订阅源
+东方卫视,http://60.13.52.236:65500/newlive/live/hls/18/live.m3u8$订阅源
 东方卫视,http://61.136.172.236:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 
 📡体育频道,#genre#
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40$订阅源
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40$订阅源
