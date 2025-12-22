@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2025-12-22 18:32:55,http://113.90.245.216:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+2025-12-23 06:29:16,http://120.211.62.180:8000/hls/1/index.m3u8$订阅源
 
 📺央视频道,#genre#
-CCTV-1,http://113.90.245.216:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-1,http://113.90.245.216:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-1,http://120.211.62.180:8000/hls/1/index.m3u8$订阅源
+CCTV-1,http://120.211.62.180:8000/hls/1/index.m3u8$订阅源
 CCTV-2,http://113.90.245.216:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-2,http://120.211.62.180:8000/hls/2/index.m3u8$订阅源
-CCTV-2,http://120.211.62.180:8000/hls/2/index.m3u8$订阅源
+CCTV-2,http://113.90.245.216:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-5,http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858$订阅源
 CCTV-5,http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858$订阅源
 CCTV-5,http://113.90.245.216:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -44,9 +43,5 @@ CCTV-9,http://120.211.62.180:8000/hls/9/index.m3u8$订阅源
 东方卫视,http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86HD&auth=666858$订阅源
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$订阅源
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$订阅源
-东方卫视,http://hmfs.f3322.net:3388/hls/24/index.m3u8$订阅源
-东方卫视,http://hmfs.f3322.net:3388/hls/24/index.m3u8$订阅源
 
 📡体育频道,#genre#
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40$订阅源
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40$订阅源
