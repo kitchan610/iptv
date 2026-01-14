@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/kitchan610/iptv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-14 18:35:43
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-15 06:32:34
 https://www.freetv.top/migu/641886683.m3u8?migutoken=13cc5084dacec107984b1a7783716f0b4d6205d02eda857fd393403d7db53274097bd692c96c6659920f5a71a931792d21535bdc3cfcfc05b2cf171f006a834f370f0e50d3727a799c636657c8$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 https://www.freetv.top/migu/641886683.m3u8?migutoken=13cc5084dacec107984b1a7783716f0b4d6205d02eda857fd393403d7db53274097bd692c96c6659920f5a71a931792d21535bdc3cfcfc05b2cf171f006a834f370f0e50d3727a799c636657c8$订阅源
