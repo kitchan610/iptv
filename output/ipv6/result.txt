@@ -1,9 +1,7 @@
 🕘️更新时间,#genre#
-2026-02-08 06:36:26,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&unique_id=stream-695106910011261612_684_flv&wsSecret=52d181562d8e2a5dee20184a94272ef3&wsTime=697ea150$订阅源
+2026-02-08 18:38:26,https://www.freetv.top/migu/641886773.m3u8?migutoken=8bdd5fb612b1814bc05e5d5a3587038b63a57118a3711f5deef616dae26551e2cf590ae33184188b9a54b1b09b28b53140036f0044b69a6e185a0a45ae997cbd63632ab73031fd27cc6a35e3a1$订阅源
 
 📺央视频道,#genre#
-CCTV-2,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&unique_id=stream-695106910011261612_684_flv&wsSecret=52d181562d8e2a5dee20184a94272ef3&wsTime=697ea150$订阅源
-CCTV-2,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&unique_id=stream-695106910011261612_684_flv&wsSecret=52d181562d8e2a5dee20184a94272ef3&wsTime=697ea150$订阅源
 CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=8bdd5fb612b1814bc05e5d5a3587038b63a57118a3711f5deef616dae26551e2cf590ae33184188b9a54b1b09b28b53140036f0044b69a6e185a0a45ae997cbd63632ab73031fd27cc6a35e3a1$订阅源
 CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=8bdd5fb612b1814bc05e5d5a3587038b63a57118a3711f5deef616dae26551e2cf590ae33184188b9a54b1b09b28b53140036f0044b69a6e185a0a45ae997cbd63632ab73031fd27cc6a35e3a1$订阅源
 CCTV-6,https://www.freetv.top/migu/624878396.m3u8?migutoken=ee6c3d925888b2938ca61a2c94d84986ff15ec0fedd3e1e35bcf4ffada20fbeead007033b33efc350632bb959d9bee9da36bac91ec304513f63032fb12e8f570416fc533ede1c4ef94197eb07c$订阅源
