@@ -1,7 +1,9 @@
 🕘️更新时间,#genre#
-2026-03-05 06:40:54,http://pull-hls-f26.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69ab5953&major_anchor_level=common&sign=57d8e1e83d33ba9634ae5c7a9459724f&t_id=037-20260228064643535DD8CD314AB1F748BD-Pqf7Y6$订阅源
+2026-03-05 18:52:56,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773218365&major_anchor_level=common&sign=821612d0a7b01fb226f8f39d97d19fc2&t_id=037-20260304163924497A73460AD8D5D628AF-n87Lsu$订阅源
 
 📺央视频道,#genre#
+CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773218365&major_anchor_level=common&sign=821612d0a7b01fb226f8f39d97d19fc2&t_id=037-20260304163924497A73460AD8D5D628AF-n87Lsu$订阅源
+CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773218365&major_anchor_level=common&sign=821612d0a7b01fb226f8f39d97d19fc2&t_id=037-20260304163924497A73460AD8D5D628AF-n87Lsu$订阅源
 CCTV-2,http://pull-hls-f26.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69ab5953&major_anchor_level=common&sign=57d8e1e83d33ba9634ae5c7a9459724f&t_id=037-20260228064643535DD8CD314AB1F748BD-Pqf7Y6$订阅源
 CCTV-2,http://pull-hls-f26.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69ab5953&major_anchor_level=common&sign=57d8e1e83d33ba9634ae5c7a9459724f&t_id=037-20260228064643535DD8CD314AB1F748BD-Pqf7Y6$订阅源
 CCTV-6,https://www.freetv.top/migu/624878396.m3u8?migutoken=62041d20d3c5ab1363a336c30747d7b00d6f970a1f7c9ccafcdeb162f4b0699991e7ba314783d67cb75e376a53e97196434000e0b828510251239944c4391f00b3b73d86f2bc177b5d5afca34a$订阅源
